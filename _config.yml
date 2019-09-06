@@ -1,11 +1,11 @@
 # Site settings
-author: Jazmin M
-title: 
+author: Jazmin M.
+title: Watch Jaz Code
 header-img: img/home-bg.png
 email: jazminmerckel@gmail.com
-copyright_name: Jazmin M
+copyright_name: Jazmin M.
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Clickity Clack Clack
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  watchjazcode
