@@ -8,7 +8,7 @@ permalink:  font_color_008080_a_career_switch_font
 
 Hey everyone, I'm Jazmin! I'm an aspiring software engineer and overall geek from NYC. 
 
-Since enrolling in Flatiron School, a question I've gotten quite frequently is "what is a software engineer?" and "why did you decide to become one?"
+Since enrolling at Flatiron School, a question I've gotten quite frequently is "what is a software engineer?" and "why did you decide to become one?"
 
 ![](https://media.giphy.com/media/5HyVZlZYxJPy7IC5Cz/giphy.gif)
 
