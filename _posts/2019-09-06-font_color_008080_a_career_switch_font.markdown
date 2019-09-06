@@ -1,9 +1,10 @@
 ---
 layout: post
-title:      "<font color=”#008080″>A Career Switch</font>"
-date:       2019-09-06 18:32:27 +0000
+title:      "A Career Switch"
+date:       2019-09-06 14:32:28 -0400
 permalink:  font_color_008080_a_career_switch_font
 ---
+
 
 Hey everyone, I'm Jazmin! I'm an aspiring software engineer and overall geek from NYC. 
 
