@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Code & Therapy: More Similar Than You Think!"
+title:      "Code & Psychotherapy: More Similar Than You Think!"
 date:       2019-11-18 06:47:03 -0500
 permalink:  code_and_therapy_more_similar_than_you_think
 ---
@@ -19,5 +19,5 @@ Problem solving is another important piece of therapy and some would argue, the 
 
 In a similar vein, programs are often created as an answer to a “problem”, whether it be: to automate routine tasks, improve on existing tools, collect and analyze data, or a myriad of other reasons. Programmers run through a similar process where we develop, maintain, test, and evaluate our programs. A great example that mirrors therapy is debugging. It is particularly relevant in showing how we work to find a root cause for a problem and work to fix it through this process.
  
-Overall, I hope this post demonstrates that **coding and therapy are more similar than you think!** Both require strong problem-solving and communication skills to be done effectively to work towards greater goals. 
+Overall, I hope this post demonstrates that **writing code and psychotherapy are more similar than you think!** Both require strong problem-solving and communication skills to be done effectively to work towards greater goals. 
 
