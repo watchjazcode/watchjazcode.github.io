@@ -6,7 +6,7 @@ permalink:  code_and_therapy_more_similar_than_you_think
 ---
 
 
-<center>![](https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif)</center>
+![](https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif)
 
  
 In my previous post, I briefly mentioned how working with clients as a psychotherapist is analogous to programming. Part of being a good therapist means understanding how a client sees the world and why. Similarly, while learning to code, I continuously find myself discovering how computers see the world and why. Two important aspects of both human and computer interactions are communication and problem solving. 
