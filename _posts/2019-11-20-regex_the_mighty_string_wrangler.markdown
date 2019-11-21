@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Regex: The Mighty String Wrangler"
-date:       2019-11-21 00:57:57 +0000
+date:       2019-11-20 19:57:58 -0500
 permalink:  regex_the_mighty_string_wrangler
 ---
 
@@ -29,7 +29,7 @@ A tutorial that is separated between basic, intermediate, and advanced usage. Th
 
 [Rubular: A Ruby regex editor](https://rubular.com/)
 
-Rubular is an awesome tool for visualizing what gets matched by a specific regular expression in Ruby. I use this tool pretty much everytime I use regex. 
+Rubular is an awesome tool for visualizing what gets matched by a specific regular expression in Ruby. I use this tool pretty much every time I use regex. 
 
 [Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)
 
@@ -49,5 +49,5 @@ After researching and using Rubular to test that my regular expression matched t
   end
 ```
 
-I think it's safe to say that though regex is a bit confusing at times, it is a **mighty** tool and worth spending the time to learn. Regex adds value in writing functional and suscinct code, and it is fun seeing just how funky these regular expressions can look!
+I think it's safe to say that though regex is a bit confusing at times, it is a **mighty** tool and worth spending the time to learn. Regex adds value in writing functional and succinct code, and it is fun seeing just how funky these regular expressions can look!
 
