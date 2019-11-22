@@ -5,6 +5,10 @@ date:       2019-11-20 19:57:58 -0500
 permalink:  regex_the_mighty_string_wrangler
 ---
 
+
+
+<img width="696" alt="Screen Shot 2019-11-22 at 12 38 21 AM" src="https://user-images.githubusercontent.com/24573221/69467910-04617380-0d58-11ea-86cc-6fe3a0f916e3.png">
+
  
 It’s about 10pm and after a very long day, I’m working to complete the Flatiron School Tic-Tac-Toe AI project. The goal of this project is to build a version of Tic-Tac-Toe with 0-, 1-, and 2-player modes:
 
