@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Rotten Tomatoes: Top 25 Horror Movies CLI Ruby Gem"
-date:       2019-11-23 04:49:42 +0000
+title:      "The Rotten Tomatoes: Top 25 Horror Movies CLI Ruby Gem"
+date:       2019-11-22 23:49:43 -0500
 permalink:  rotten_tomatoes_top_25_horror_movies_cli_ruby_gem
 ---
 
@@ -19,11 +19,11 @@ For my first project I knew that I wanted to make something fun, that I myself w
 
 This CLI gem provides an interactive top 25 horror movie list, from the Rotten Tomatoes website. The user is given the list upon entering the program and is prompted with the question “would you like further information on a movie?” The user can then enter the number that corresponds with the movie they would like to learn more about. This will open the movie stats section with info on: rank, rating percentage, title, link to Rotten Tomatoes page, and total number of reviews.
 
-<img width="522" alt="Screen Shot 2019-11-22 at 12 39 32 AM" src="https://user-images.githubusercontent.com/24573221/69467908-04617380-0d58-11ea-9dd5-f449fdbda101.png">
+<img width="500" alt="Screen Shot 2019-11-22 at 12 39 32 AM" src="https://user-images.githubusercontent.com/24573221/69467908-04617380-0d58-11ea-9dd5-f449fdbda101.png">
 
 At this level, the user can then choose to see a short synopsis on the movie and a random critic’s review. 
 
-<img width="828" alt="Screen Shot 2019-11-22 at 12 40 25 AM" src="https://user-images.githubusercontent.com/24573221/69467912-04617380-0d58-11ea-9175-d48458ab070f.png">
+<img width="800" alt="Screen Shot 2019-11-22 at 12 40 25 AM" src="https://user-images.githubusercontent.com/24573221/69467912-04617380-0d58-11ea-9175-d48458ab070f.png">
 
 Lastly, the gem prompts the user asking if they would like to see another movie. If yes, it will loop right back to the top 25 horror movie list; if no, the user will be ushered out of the program by some spooky skulls!
 
