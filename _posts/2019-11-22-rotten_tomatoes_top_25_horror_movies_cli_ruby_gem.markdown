@@ -7,7 +7,7 @@ permalink:  rotten_tomatoes_top_25_horror_movies_cli_ruby_gem
 
 <img width="630" alt="Screen Shot 2019-11-22 at 12 38 21 AM" src="https://user-images.githubusercontent.com/24573221/69467910-04617380-0d58-11ea-86cc-6fe3a0f916e3.png">
 
-Admittedly, creating my first Flatiron School project was anxiety inducing, so much so that I can say I stalled a bit before tackling it. My hesitation was evenly distributed into two buckets: concern related to my ability and concern related to the actual build. However, despite my lingering fears, I can FINALLY say I’ve tackled and completed my very first portfolio project and created my first Ruby gem! 
+Admittedly, creating my first Flatiron School project was anxiety inducing, so much so that I stalled a bit before tackling it. My hesitation was evenly distributed into two buckets: concern related to my ability and concern related to the actual build. However, despite my lingering fears, I can FINALLY say I’ve completed my very first portfolio project and created my first Ruby gem! 
 
 ### **Project Walkthrough**
 
